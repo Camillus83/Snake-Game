@@ -3,7 +3,7 @@
 #ifndef SNAKE_H_
 #define SNAKE_H_
 
-/*************************** STRUCTURE INITIALIZATION ***************************/
+/*************************** STRUCT DECLARATION ***************************/
 /* This structure will store x and y coordinates of every object like snake head,
    fruit or every element of snake tail. */
 struct position {
